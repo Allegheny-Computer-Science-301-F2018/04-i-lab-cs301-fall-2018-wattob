@@ -1,5 +1,5 @@
 # Name: Ben Watto
-# Date: October 10th, 2018
+# Date: October 12th, 2018
 
 # Run the below only if the library is not already installed.
 # install.packages(dslabs)
@@ -67,8 +67,8 @@ dat_Focus <- mutate(dat_Focus, per100000rate = ((count*100000)/population)* (wee
 ggplot(data = dat_Focus ) + geom_bar(mapping = aes(x = state, y = count, fill = yearBlock), position = "dodge", stat = "identity") + geom_tile(mapping = aes(x = state, y = count, color = per100000rate)) + theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust=-0.01))
 
 #Question 6.
-
-
-
-
+autismData <- read.csv("~/cs301F2018/04-i-lab-cs301-fall-2018-wattob/autismData.csv", comment.char="#")
+View(autismData)
+ggplot(data = autismData) + geom_line(mapping = aes(x = Year.., y = Net.Growth))
+#The plot created shows an increase in autism from 1985 onward, but this does not relate to vaccine use which started in the 1960's. In this situation autism appears to increase from the improvements to medicine as well as the lenient diagnoses for autism. The increase in autism does not coincide with the introduction of vaccines.
 

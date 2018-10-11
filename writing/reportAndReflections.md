@@ -1,5 +1,5 @@
 # Ben Watto
-# Date:10/3/18
+# Date:10/12/18
 
 ## Question 7
 For this question I used data exploration to determine if other diseases such as Polio has enough data to explore the effects of vaccines. Poliomyelitis (polio) is a highly infectious viral disease, which mainly affects young children. The virus can invade the nervous system and lead to paralysis. The data I collected came from World Health Organization. I believe this information comes from a reliable source. The source below shows the percentage of one-year-olds who have received three doses of polio vaccine in a given year. In Africa, 70% are given vaccines, while in Europe and American have a percentage of 94 and 87. There are far less deaths from polio in Europe and America which shows their is an effect from the vaccines. These sources are credible and they provide reliable information to determine the effects of vaccines.
