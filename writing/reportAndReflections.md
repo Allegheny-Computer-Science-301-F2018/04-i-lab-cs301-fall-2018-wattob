@@ -2,11 +2,15 @@
 # Date:10/3/18
 
 ## Question 7
-Use data exploration to determine if other diseases (besides Measles) have enough data to
-explore the effects of vaccines. Be critical of your online research. Are you convinced by the
-primary or credible articles that you have found? Be sure to cite all articles.
+For this question I used data exploration to determine if other diseases such as Polio has enough data to explore the effects of vaccines. Poliomyelitis (polio) is a highly infectious viral disease, which mainly affects young children. The virus can invade the nervous system and lead to paralysis. The data I collected came from World Health Organization. I believe this information comes from a reliable source. The source below shows the percentage of one-year-olds who have received three doses of polio vaccine in a given year. In Africa, 70% are given vaccines, while in Europe and American have a percentage of 94 and 87. There are far less deaths from polio in Europe and America which shows their is an effect from the vaccines. These sources are credible and they provide reliable information to determine the effects of vaccines.
 
-For this question I used data exploration to determine if other diseases have enough data to explore the effects of vaccines.
+![Logo](images/question7.png)
+
+
+### Sources
+- http://apps.who.int/gho/data/view.main.UHCIMMUNIZATIONREGv?lang=en
+- http://www.who.int/immunization/en/
+- http://www.who.int/topics/poliomyelitis/en/
 
 
 
@@ -28,7 +32,7 @@ parasite globally and extremely common in Africa. It explains the vaccine and ho
 
 The second article involves vaccinating dogs to stop their spread of rabies in dogs younger than 12 months of age. Rabies presents a public health risk to humans as well. The higher occurrence of rabies in young dogs is believed to be from a lack of vaccination on this age group. To test this belief, dogs around 3 months old were vaccinated to examine the correlation between developing rabies and the vaccination. Because of the risk to human health the author suggests that all dogs over 3 months of age be vaccinated against rabies.
 
-## Sources
+### Sources
 - http://www.who.int/malaria/publications/atoz/first-malaria-vaccine/en/
 - http://www.who.int/rabies/resources/vr_102975/en/
 
